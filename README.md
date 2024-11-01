@@ -62,17 +62,3 @@ You can learn more about the `tar` command [here](https://www.gnu.org/software/t
 [Project can be found at roadhmap.se](https://roadmap.sh/projects/log-archive-tool)
 
 
----
-
-
-### Potential upgrades to the project
-
-📌Adding functionality to the tool like emailing the user updates on the archive.
-
-📌Sending the archive to a remote server or cloud storage.
-
----
-
-You can learn more about the `tar` command [here](https://www.gnu.org/software/tar/manual/tar.html) and [here](https://linuxize.com/post/how-to-extract-unzip-tar-gz-file/)
-
-[Project can be found at roadhmap.se](https://roadmap.sh/projects/log-archive-tool)
