@@ -43,7 +43,7 @@ crontab -e
 0 2 * * * /home/username/log-archive.sh /path/to/logs
 ```
 ### Screenshot
-[Result of the Log-archive-tool](https://github.com/madebydawid/devops-labs/blob/main/log-archive-tool/images/result.jpg?raw=true)
+[Result of the Log-archive-tool](https://github.com/madebydawid/log-archive-tool/blob/main/images/result.jpg?raw=true)
 
 
 ---
